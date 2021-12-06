@@ -14,5 +14,4 @@ impl fmt::Debug for CombinatorialExplosionError {
     }
 }
 
-impl std::error::Error for CombinatorialExplosionError {
-}
+impl std::error::Error for CombinatorialExplosionError {}
